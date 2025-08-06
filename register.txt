@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>registration form</title>
+</head>
+<body>
+<center>
+<br>FIRST NAME<input placeholder="enter first name"type="text"</br>
+<br>EMAIL<input placeholder="enter email"type="text"</br>
+</br><button>CANCEL</button></br>
+</center>
+</body>
